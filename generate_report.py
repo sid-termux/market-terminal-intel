@@ -1,12 +1,13 @@
 import os
 import json
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from google import genai
 from google.genai import types
 
-# 1. Fetch real-time Indian stock market & regulatory news feeds directly (100% Free)
+# 1. Fetch real-time Indian stock market & regulatory news feeds directly
 rss_feeds = [
     "https://news.google.com/rss/search?q=BSE+NSE+stock+market+filing+quarterly+results+when:1d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=SEBI+order+CCI+RBI+investigation+listed+company+India+when:1d&hl=en-IN&gl=IN&ceid=IN:en",
@@ -33,7 +34,7 @@ for url in rss_feeds:
 news_context = "\n".join(collected_news[:25])
 print(f"Collected {len(collected_news)} live market headlines.")
 
-# 2. Setup Gemini Client without paid search tool (Uses standard Free Tier quota)
+# 2. Setup Gemini Client with Multi-Model Fallback & Auto-Retry
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 PROMPT = f"""
@@ -68,14 +69,33 @@ Return ONLY a valid JSON array of objects following this schema:
 ]
 """
 
-response = client.models.generate_content(
-    model='gemini-3.8-flash',
-    contents=PROMPT,
-    config=types.GenerateContentConfig(
-        response_mime_type="application/json",
-        temperature=0.2,
-    )
-)
+# High-availability models list to prevent 503 Server Busy
+candidate_models = ['gemini-3.8-flash', 'gemini-3.6-flash', 'gemini-3.5-flash-lite']
+response = None
+
+for model_name in candidate_models:
+    for attempt in range(3):
+        try:
+            print(f"Attempting with model: {model_name} (Attempt {attempt + 1})...")
+            response = client.models.generate_content(
+                model=model_name,
+                contents=PROMPT,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.2,
+                )
+            )
+            if response and response.text:
+                print(f"Success with {model_name}!")
+                break
+        except Exception as e:
+            print(f"Server busy or error on {model_name}: {e}")
+            time.sleep(5) # Wait 5 seconds before retrying
+    if response and response.text:
+        break
+
+if not response or not response.text:
+    raise RuntimeError("All candidate models currently unavailable due to traffic spike. Try running again.")
 
 today_str = datetime.now().strftime("%Y-%m-%d")
 DB_FILE = "market_intelligence.json"
@@ -90,7 +110,6 @@ else:
     database = []
 
 try:
-    # Clean potential markdown wrapping
     cleaned_text = response.text.strip()
     if cleaned_text.startswith("```json"):
         cleaned_text = cleaned_text[7:]
