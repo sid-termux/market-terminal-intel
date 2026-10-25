@@ -30,7 +30,7 @@ Each object must follow this exact schema:
 """
 
 response = client.models.generate_content(
-    model='gemini-2.5-flash',
+    model='gemini-3.8-flash',
     contents=PROMPT,
     config=types.GenerateContentConfig(
         tools=[{"google_search": {}}],
