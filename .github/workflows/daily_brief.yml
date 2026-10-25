@@ -1,0 +1,44 @@
+name: Market Intelligence & Auto-Outcome Pipeline
+
+on:
+  schedule:
+    # 02:00 UTC = Subah 07:30 AM IST (Monday to Friday)
+    - cron: '0 2 * * 1-5'
+    # 10:30 UTC = Shaam 04:00 PM IST (Monday to Friday)
+    - cron: '30 10 * * 1-5'
+  workflow_dispatch: # Allows manual trigger anytime
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install google-genai yfinance pandas
+
+      - name: Generate Morning Calls
+        if: github.event.schedule == '0 2 * * 1-5' || github.event_name == 'workflow_dispatch'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python generate_report.py
+
+      - name: Evening Market Verification
+        if: github.event.schedule == '30 10 * * 1-5' || github.event_name == 'workflow_dispatch'
+        run: python evaluate_calls.py
+
+      - name: Commit & Push Updated Database
+        run: |
+          git config --global user.name "MarketBot"
+          git config --global user.email "bot@market.local"
+          git add market_intelligence.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-synced market intelligence [$(date +'%Y-%m-%d')]" && git push)
