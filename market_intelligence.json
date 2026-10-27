@@ -14,7 +14,7 @@
     "catalyst": "Q2 earnings disclosure confirms structural progress on deposit mobilization, NIM stabilization expectations, and disciplined credit cost controls for H2.",
     "invalidation_risk": "Elevated credit-to-deposit ratio persistence, systemic deposit repricing pressures, or asset quality degradation in retail unsecured loans.",
     "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0tXejVNc2x6bXBTMEJWZ2p4R0x3VUVUaEx4dUg5ZS1DMXZnU2pZVGtIc2F4TzUtZzNVNGE0bWtZTC1KQ3ZETU9mdTVIMTdRY0RzRFJhakIydWZuTXRQVUlSVmZENXAtcktTbHg0eGZ6TkM0cHhMTzIwLWxZNXJQZno1d1RXckFrazFOUFo3Ukl0UlI0MDl2UURzVUF4ZEZhZUplS3pab2V5WHNocHlDTmRCZ0V3UzVBdkdXM19rcw?oc=5",
-    "base_price": null,
+    "base_price": 1224.8,
     "status": "PENDING",
     "max_tracking_days": 90,
     "resolved_date": null,
@@ -35,7 +35,7 @@
     "catalyst": "Posted solid Q2 financial results with net profit climbing 10.73% YoY to Rs 181.52 crore, indicating steady asset quality and AUM expansion.",
     "invalidation_risk": "Margin compression driven by elevated cost of borrowings or intense lending competition in affordable housing.",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RUTBBcmdJYlZNV01tLTl3Q3VHR3VVUXFDeEZBWlVESDY0cUIyTWVxUlo0SWV2UW1sR0gwaGhnUGl5SXAwdW9UZ0cwQUxPcVJVZlVIRkRnX0dzdkx2c0Q1a2JKdm1KWVlxbXNWUWxabng5a21RU0dSMEp6SQ?oc=5",
-    "base_price": null,
+    "base_price": 1138.1,
     "status": "PENDING",
     "max_tracking_days": 30,
     "resolved_date": null,
@@ -56,11 +56,11 @@
     "catalyst": "Robust Q2 operating performance coupled with strong order backlog momentum reported across core Western export markets.",
     "invalidation_risk": "Cyclical downturn in North American and European Class 8 commercial vehicle production or sharp FX volatility.",
     "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWlDejFLOUZna3EwYXl2dHNqRkpKeUljR0xwUnl4eWxwQUE5a3ZyWmhoLXVnWDAzTHdORmVtWFc1enNtSWVKWDBnQTcweEVIZ2lObHRBd2Y5S0F1S291TDB0YW4wY0RQS2tPNUdUeFBYcUJOQlVUVUVoQWFjeDJKV0NxZUs1ZkI4dmlQRXdLb1RNLU9NRG0wQ01RUHJHUQ?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 559.4,
+    "status": "HIT",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-10-27",
+    "result_note": "Target Hit: High ₹589.35 reached Target ₹580.66"
   },
   {
     "id": "2026-10-27_TATAMOTORS_0",
