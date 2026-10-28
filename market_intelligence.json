@@ -15,10 +15,10 @@
     "invalidation_risk": "Elevated credit-to-deposit ratio persistence, systemic deposit repricing pressures, or asset quality degradation in retail unsecured loans.",
     "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0tXejVNc2x6bXBTMEJWZ2p4R0x3VUVUaEx4dUg5ZS1DMXZnU2pZVGtIc2F4TzUtZzNVNGE0bWtZTC1KQ3ZETU9mdTVIMTdRY0RzRFJhakIydWZuTXRQVUlSVmZENXAtcktTbHg0eGZ6TkM0cHhMTzIwLWxZNXJQZno1d1RXckFrazFOUFo3Ukl0UlI0MDl2UURzVUF4ZEZhZUplS3pab2V5WHNocHlDTmRCZ0V3UzVBdkdXM19rcw?oc=5",
     "base_price": 1224.8,
-    "status": "PENDING",
+    "status": "MISSED",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-10-28",
+    "result_note": "Invalidated: Low ₹1200.00 breached SL ₹1200.30"
   },
   {
     "id": "2026-10-27_AAVAS_2",
@@ -36,10 +36,10 @@
     "invalidation_risk": "Margin compression driven by elevated cost of borrowings or intense lending competition in affordable housing.",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RUTBBcmdJYlZNV01tLTl3Q3VHR3VVUXFDeEZBWlVESDY0cUIyTWVxUlo0SWV2UW1sR0gwaGhnUGl5SXAwdW9UZ0cwQUxPcVJVZlVIRkRnX0dzdkx2c0Q1a2JKdm1KWVlxbXNWUWxabng5a21RU0dSMEp6SQ?oc=5",
     "base_price": 1138.1,
-    "status": "PENDING",
+    "status": "MISSED",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-10-28",
+    "result_note": "Invalidated: Low ₹1112.80 breached SL ₹1115.34"
   },
   {
     "id": "2026-10-27_GNA_1",
@@ -99,10 +99,10 @@
     "invalidation_risk": "Delays in corporate restructuring execution or capital allocation inefficiencies across non-core segments.",
     "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWVFTnFTcmd2S2ZVdlV3TG8tb1gxTzFLUmszU2tFc3NEU09SdkNLM2Q1VG1iZjhJQ0VrZC1JbG9NVXdKRkhVVXFvZ2tTRVRXS21EakNzYVJpMlZCU3ZmTm5sOHNnYXloTGQ3RjN3SVFGOEY0NTRCS3hkMFNLSHZINEJkay10Mk54M3J0Rk02LUl1dFdSRDhuMEFldk12WjlnQlo0SGpncks2RkptSkpESVJjcm1UZmtDeFZzNXh3TdIBvwFBVV95cUxNSWVFTnFTcmd2S2ZVdlV3TG8tb1gxTzFLUmszU2tFc3NEU09SdkNLM2Q1VG1iZjhJQ0VrZC1JbG9NVXdKRkhVVXFvZ2tTRVRXS21EakNzYVJpMlZCU3ZmTm5sOHNnYXloTGQ3RjN3SVFGOEY0NTRCS3hkMFNLSHZINEJkay10Mk54M3J0Rk02LUl1dFdSRDhuMEFldk12WjlnQlo0SGpncks2RkptSkpESVJjcm1UZmtDeFZzNXh3TQ?oc=5",
     "base_price": 1063.0,
-    "status": "PENDING",
+    "status": "HIT",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-10-28",
+    "result_note": "Target Hit: High ₹1160.50 reached Target ₹1116.15"
   },
   {
     "id": "2026-10-26_INFY_2",
