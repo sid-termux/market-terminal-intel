@@ -14,7 +14,7 @@
     "catalyst": "Sequential normalization of the post-merger Credit-to-Deposit (CD) ratio aided by portfolio loan sales, accelerating net interest margin (NIM) inflection.",
     "invalidation_risk": "Systemic retail deposit competition keeping funding costs elevated and suppressing loan growth under RBI tightening.",
     "source_url": "https://www.bseindia.com/corporates/ann.html",
-    "base_price": null,
+    "base_price": 683.3,
     "status": "PENDING",
     "max_tracking_days": 90,
     "resolved_date": null,
@@ -56,7 +56,7 @@
     "catalyst": "Secured a major international offshore hydrocarbon EPC order win classified in the INR 5,000 Cr to 10,000 Cr range, expanding order book visibility.",
     "invalidation_risk": "Broad benchmark risk-off sentiment or sustained escalation in raw material and steel input costs impacting execution margins.",
     "source_url": "https://www.bseindia.com/corporates/ann.html",
-    "base_price": null,
+    "base_price": 3837.1,
     "status": "PENDING",
     "max_tracking_days": 3,
     "resolved_date": null,
@@ -99,10 +99,10 @@
     "invalidation_risk": "Adverse weather impact on upcoming Rabi season seed demand or delayed liquidation of channel inventory.",
     "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGdoQkdSMk1pdHd1c2RIUmVEZlBOcmNLbTVOTVY2RS02ckpDTWVWYno0SXhuWWtJS3BQeUF5SU1lSktTcEV1U0FaVWpicjgwdFBDcm1UR2pTZ29GVW94cEJKcXdJUkZzZUVLRy1Jckp4bnJPY2FzWkFnMVk5ckJuaWs1b29OY2EyV2ZZSW1SVFdyajk0THM0?oc=5",
     "base_price": 688.0,
-    "status": "PENDING",
+    "status": "MISSED",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-10-30",
+    "result_note": "Invalidated: Low ₹650.15 breached SL ₹674.24"
   },
   {
     "id": "2026-10-29_TORNTPHARM_0",
