@@ -14,11 +14,11 @@
     "catalyst": "Announced roadmap for value unlocking via separate listing of subsidiary SHRL target by Q1 FY28.",
     "invalidation_risk": "Regulatory delays in demerger/listing or slowdown in hospitality demand.",
     "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVpRTmxfeHllUnBERjg4dG83RGRHbmg0UXBrTzlnZE5rdXd3ZUpodzBGcHZpSVJnckpHdzJRUlVRZGR2M0IzbVdXNUFTUHZ0cTJSV2NWekV1UFZDM2drTTdXZ1hiSHowQjhkN284YUExWncyc292Tlh1R2JyQVBNc3locFI2UldjV2s0bVJrRnpXOGNGeGNhRE5WTVpMbFM1SWdqYWtHUE1hYlE?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 89.0,
+    "status": "MISSED",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-03",
+    "result_note": "Invalidated: Low ₹87.06 breached SL ₹87.22"
   },
   {
     "id": "2026-11-03_MARICO_2",
@@ -35,7 +35,7 @@
     "catalyst": "Robust Q2 performance complemented by positive upward revision in revenue and volume growth guidance.",
     "invalidation_risk": "Spike in key raw material costs like copra and crude derivatives.",
     "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmlzVlpvejVtUW9KOU1UdXdaWkU4NGk5b24xdzkzWmI4YXNiMVZSX1dvU2YtZzhsVUhyM0NTcWNXazlXNE1JbGlCdThZeUxBc291Ukd3aEhmZFZUeHlMUUpZdFpxd2dxbmNUWnhRT2paejhubVVCRVpwV09CRkhfNkdqaGFtejVkeDhDTHlZTkc3N0lfNk1QbGtQdndRSU9sNzJnaXdmc2NqR1VOcW9MaFY2WGM0a2pnYUhzNm01RW9mUEVyaXlwVmt4LWUtVUpBdENGaDVva9IB3AFBVV95cUxNVGVRYTM0WTZ3N1B6VjkwVWhwUDhQRFBOS0hab050c19vekVfdlVJbHcxN3RqNUhSRk1fX2NfZm5ibjQ4SV8xdmx3RVZiVExxbXhlUWJ3MFdKdmpHMXFZOW1ZNFZid0JPS3o1aTNoaXJac3RxM3pybGlZNDk2Qkp5bGVGcVAtUVNyRmtTZVFIZFRIUzdMcU9fVGRpMUFnNWM2Y19VNFNiNlo5czVDSUZPX1V3OXhBNndNT1JIZGV1U0FUR1FOLWEtWDFiN0lkZmJLSzBIWGNveUNnd0xa?oc=5",
-    "base_price": null,
+    "base_price": 832.55,
     "status": "PENDING",
     "max_tracking_days": 30,
     "resolved_date": null,
@@ -56,11 +56,11 @@
     "catalyst": "Strong Q2 earnings reported with net profit reaching ₹84 crore and total income rising to ₹1,051 crore.",
     "invalidation_risk": "Broader real estate sector profit-taking or delays in project execution timelines.",
     "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbEN5OEtNS2JUY1otS2g1MlZ4SDM0cmtRSDlPVk1lUEZYb09YLVJxVlVJM1hlLVZwQkhWaXhMaWVZUW9QV0hLSUxPVVA3RnRsYnc3RVlQc05QcmN5RThZUUpwbnQ3UWx1WEZreVZGbHNvZ0dwQWZrT0J5V2pTcm1wRmw3aTlSTnVtanNYekZlVk12Uy1fUjFmT1FkSHZNVlc5N19sSjNTWUlQZ29UC1d4UnQ4X1BlSUlkRzlxd2F2UTAxVVVrMFVLZ1Fvby1tc3BMNHhUb1VaX1lzT2ZXb9IB6AFBVV95cUxNZmEwdlhuX2RfMlZ3MjJCdVBLakhva1pVMkFwSjdaOWIxaTBNeWxsZ1MyODU0U0JUWjRIU3prREJ1cUY4anBuODg4eGNwMHU3S3RaN3NTa1lUdmJ5TzlSTVFha013dTZaWWtrUER6dmdsSE90Q3pzb3Q3VmkwZWRwVXBUZm5McGN0RUtHWXFyWHNTdW1JLXprTjllWEhtckx2Q1NnZzRvYjNER1hNUzhXZlFxdXJWNS0yS0l5MF9NcnFnRXM4V3hydnFnNWZ4UGw1UEJoeURUTXZtODIyT254ZEJSc1FkS2w5?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 207.0,
+    "status": "MISSED",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-03",
+    "result_note": "Invalidated: Low ₹198.01 breached SL ₹202.86"
   },
   {
     "id": "2026-11-03_KITEX_0",
@@ -77,11 +77,11 @@
     "catalyst": "Company turned profitable in Q2 FY27, triggering strong buying momentum and 17%+ surge in stock price.",
     "invalidation_risk": "Profit-booking after multi-day momentum or rise in cotton raw material costs.",
     "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTXg5YjlDTU5EbmlkN0NfbVJLMnRjVENtTGEySEdFUkNKOHhCbDlyMDYzdmVBSnR6YWtrWFV0ZTZLMjU0ajBnSjlWdzMtMlBaRWY5azRwQm9HeXkwLTlER2hPSjdSMmdPdjFQbUJTNmc4enY3NHcySGFyMXlBNGVtUnppcTE0YjJoYzZ0QmNiRWVKZ3VKMW1oSVVRQjhPd0dBY3ljM0Q4Q0VGSlVWUEJMbTNTZEQ4aXNIY1FzZDREZXZpc2Y4LVlzbXR1Yk1KcUlUYTZrbGVrSzLSAd4BQVVfeXFMTjJUUDJ1SHZ6bU5ONGhCZ2JMcVBCaktzVHFydmk5VG81TjF0N3dVRWl2RVc0LVd4UmFWakZJbDNBV1VWTGlUTmVvcldGWkVUWFIyQzcxa19DYk1GeC03NUs0MVNXVnZaV1NpTXhEOF8xdDBwVHNBVmllN2NvYm0xVGVDY1RRemxjYTAyZmhqWVFJaHhzRlk4X0VLeHhlUTl5WWxzVHNVeThBSUFWZ0tmWVFoQXdLYUhwQ1hiX1ppMDB2XzRSSWN5a1VDaUhaQzRjVmVuSkM5SGdJRG9TdVBR?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 126.0,
+    "status": "HIT",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-03",
+    "result_note": "Target Hit: High ₹138.91 reached Target ₹134.19"
   },
   {
     "id": "2026-11-02_ONGC_2",
@@ -141,10 +141,10 @@
     "invalidation_risk": "Intraday profit-booking near psychological resistance levels or broader market sentiment reversal.",
     "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlhLUlZ1ajRkbzBtQUdOUXM1NXpFLU1Wa1BFQTFRRnJhQ2pXbTdmdGg4NXpjeV9KWnlEUFJha09KNWtRZ2FYMURCV0RoWHkxYVlkS3R2azFTUF8ySktjRktKNVgyMTNhWjVaT09Pb05QMFZQVG9EbWFVQm9HWFRnOS1vb0QtRTBtZnE1OXdCT0x1VlkydFBKY2FWbkZ6dnd3djhYXzR0QV9DZ9IBrwFBVV95cUxQRFVNRUYzbXZBem4tUkNPbjI4RTAwQ1Z5bzhDVjJiVXR1dHlSb1hWUkVLcXMzanhHUGs0RkJ2aUFKSG9tN24xdXFsYjJzWVJjOTI4bzNQalV0Wk00VmRmM192V2N0S0w4Z0g0LUlUa1k5OEJzMXJaVElxNzBHV3FwcDRnNFhaZkgwQl9RY1NGYnN2a0JidXpTU3ZORnRMdS1YVi1HcXZsMXFVLXdYN0dz?oc=5",
     "base_price": 206.95,
-    "status": "PENDING",
+    "status": "HIT",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-03",
+    "result_note": "Target Hit: High ₹216.44 reached Target ₹214.19"
   },
   {
     "id": "2026-10-30_HDFCBANK_2",
@@ -204,10 +204,10 @@
     "invalidation_risk": "Broad benchmark risk-off sentiment or sustained escalation in raw material and steel input costs impacting execution margins.",
     "source_url": "https://www.bseindia.com/corporates/ann.html",
     "base_price": 3837.1,
-    "status": "PENDING",
+    "status": "HIT",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-03",
+    "result_note": "Target Hit: High ₹3964.00 reached Target ₹3952.21"
   },
   {
     "id": "2026-10-29_VEDL_2",
@@ -225,10 +225,10 @@
     "invalidation_risk": "Sharp decline in global metal prices (Aluminum/Zinc) or renewed parent entity debt refinance pressures.",
     "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1M3RFZNTXFPdkwtbm93SFQ1b0M3bTVlVjlQQjJKNVd3WjVESHhoNUxDQ1FUc2k3RGtEVXptNGh2em1zRkswZ2d1SThObWl1OHd4T1BGdVVHeEN0QmVJZEx5QWtLa0YtSVdZOGpZVlZPTlVpOF_FdEVBTUVhVnRZa3MtUFVNUkNNMFdwYTRVTGJXSWVhd250RUMyZWRMSWlta2FLQV_XRkFRN2ZwYzhMd3NtaUU5UVFrOUE?oc=5",
     "base_price": 236.0,
-    "status": "PENDING",
+    "status": "HIT",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-03",
+    "result_note": "Target Hit: High ₹248.10 reached Target ₹247.80"
   },
   {
     "id": "2026-10-29_KSCL_1",
