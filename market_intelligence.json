@@ -14,11 +14,11 @@
     "catalyst": "Exceptional Q2 FY27 performance showing 103.88% revenue growth and PAT reaching Rs 213.37 Cr, paving the way for full-year re-rating.",
     "invalidation_risk": "Margin compression in subsequent quarters or client concentration risks in international markets.",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaDRMRW5zRUlaUGN4UFzmMGJROVkyVHVBc2J3VV9vVDd2VHVqYnZ3X3BqT1pQTEVFb1pobFhodGRUVHdzRG9rWS0wWWZiMnVwMlhxVWMweWZSUTQ0UzRyRHdDSy0zNDJCeU1NRkRfNjcyNXJzQmlKMDJIc0Y5VnVudTVfMFBpb0E?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 1726.9,
+    "status": "MISSED",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-06",
+    "result_note": "Invalidated: Low ₹1627.80 breached SL ₹1692.36"
   },
   {
     "id": "2026-11-06_BHARATFORG_3",
@@ -35,11 +35,11 @@
     "catalyst": "Regulatory overhang from seeking a waiver for regulatory fines over delayed XBRL voting result filings.",
     "invalidation_risk": "Prompt waiver approval from exchange and regulatory authorities without financial penalty.",
     "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFRVMVRHTkxwb3NJUFZ0MWVYN215cUJLcGs4c3JTMnhCekJpT21PX0hPTjJDZkJxbzV3SE1ZN281dV8yQjlRbk41dkdZWFk5WEJzaWFRLS1RZ0Z3ZHRCenprMlg3b2loQURuRlIyUzVmRHQ5WTI3eE1JbHVkQnJqWU9SNWhjQzNqR011eW9wb3JMTEI4NmtYdFhVcVRRdWNVTmAwY0xaelFwc29EczZKR3l4QlhiZw?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 1725.0,
+    "status": "HIT",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-06",
+    "result_note": "Target Hit: Low ₹1680.10 hit Target ₹1759.50"
   },
   {
     "id": "2026-11-06_MUTHOOTCAP_2",
@@ -56,11 +56,11 @@
     "catalyst": "Strong Q2 FY27 earnings momentum driven by a 14.23% increase in revenue to Rs 175.39 Cr and a 55.48% jump in net profit.",
     "invalidation_risk": "Spike in credit costs or asset quality slippages in upcoming quarterly disclosures.",
     "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa2FYSlpQRG5QZThIUUhVYXN4S19aTllXR3gwanZVSmF5TVZ0YU1RMTBwSDZyVzNxRlN4T2E0TWwzaE1jY3RKWGQtQXZ2WV90S3NFN3RMSmI1ZEwwNUdiamhRNUdnQjJqVWY1LWwwQlhVQ3ZOSDNGZFNiT3ZWVkI0UkVibw?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 210.0,
+    "status": "MISSED",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-06",
+    "result_note": "Invalidated: Low ₹192.20 breached SL ₹205.80"
   },
   {
     "id": "2026-11-06_ARROWGREEN_1",
@@ -77,11 +77,11 @@
     "catalyst": "Robust Q2 FY27 results featuring a 39.92% surge in revenue to Rs 85.45 Cr and a 59.53% jump in PAT to Rs 25.11 Cr.",
     "invalidation_risk": "Lower intraday liquidity leading to sharp profit-taking after the initial surge.",
     "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KNW9UUkxCemh3cUdnaXZ6Y0NyeGdhNHdBTFRMTU1DTlI4aWFXNk5rSVo5cGk3alhQQ010STJMRmNlX3lsdjhFekI4SzNQX2xxbGU1LTIySkVCeGc1M0pUS25RUmdHTXJMMHhfTjQ0QUlTb1NMQWhUZw?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 760.0,
+    "status": "MISSED",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-06",
+    "result_note": "Invalidated: Low ₹704.15 breached SL ₹744.80"
   },
   {
     "id": "2026-11-06_BRITANNIA_0",
@@ -98,11 +98,11 @@
     "catalyst": "Strong Q2 FY27 financial performance with top-line growth of 11.65% year-on-year and a net profit of Rs 705.54 Cr.",
     "invalidation_risk": "Profit booking around psychological resistance levels or broader weakness in FMCG market sentiment.",
     "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazA3WDNGYUtIOUtMdFBEWGtRclg3N3ZhZG0zbHFYanZtSzRnajVpYjdtZVVsZXdGT2dKd3NUbmpWRnhlN0xqYXB1X1gySndYV2ZCWHhSQy1QVmlvQlExYVVJbFlnVk03SDAxRnA1bmVrN2gyUkxxMF82WFdSb1lzZg?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 5050.0,
+    "status": "MISSED",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-06",
+    "result_note": "Invalidated: Low ₹4712.50 breached SL ₹4949.00"
   },
   {
     "id": "2026-11-05_KIMS_3",
@@ -372,10 +372,10 @@
     "invalidation_risk": "ARPU growth missing street expectations or higher-than-expected network capital expenditure.",
     "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObEdqTmJLd0dOeDJMcmc3OTBadGY3RGlkUFN4R0l3NnRlX0FIdmxONmtKRnpvbGZsaThTeUUtb1dZX2Y3QkNZMmlsVTNPNzR2ZGRPdzlSSXc2Nl9VaDByZE1pZE9OTXFPOFNKUXBqWlAtRWg2YXNGbUVkZEtORU9tdHRuSmhMR2VpNzA2TDRDeDhOdDl1bGJCQ2RENHNWRVV4azNlejhpNTNCZWplRml3ZUJyb1Vfb2ZJT0UzVHNLWWtWLWJKaVphRXp6Y0kwTmp2Ty1US3Fuc3lGRUFxRzJ6X0RVOFpFTVFv?oc=5",
     "base_price": 1995.8,
-    "status": "PENDING",
+    "status": "HIT",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-06",
+    "result_note": "Target Hit: High ₹2120.00 reached Target ₹2095.59"
   },
   {
     "id": "2026-11-02_JIOFIN_0",
