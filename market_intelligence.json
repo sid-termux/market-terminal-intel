@@ -56,11 +56,11 @@
     "catalyst": "Shares skyrocketed 11% defying weak market sentiment, driven by strong buying momentum and positive trade interest.",
     "invalidation_risk": "Quick profit-booking at higher levels or sudden intraday reversal.",
     "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR3RMYmFaTzkxZHNGdDBzQlJVcm1pdGcwXzZBZTdHeHljVVlPckg3NmptOFYxWnE4MmsweV9sRmpPSExoYXhqUl9ZVFNBR2tVaXF5cm4tOHZZbHBjQ3NEUWFWbm55WjhxWE1wbWRMTVNvREhJUklWdW1XSXpqenB6ZWM4RmdvV3lrR09tZlRhUDRGNnN0VmNqWnRzOURzMjZEeXRJWlptYURjZkJHUVBYZlByNGZyRTFuOUFWUWp1eUlwS2F3ZkRJaENQUWMzT25SRkZiaTdZbmMyTE5fNzRXSUNaeDZxdlhVTE9nUEI3aw?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 452.8,
+    "status": "HIT",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-10",
+    "result_note": "Target Hit: High ₹513.00 reached Target ₹502.61"
   },
   {
     "id": "2026-11-10_KPIGREEN_0",
@@ -77,11 +77,11 @@
     "catalyst": "Shares jumped 9% on massive volume spike ahead of Q2 results, indicating strong pre-earnings accumulation and positive momentum.",
     "invalidation_risk": "Disappointing Q2 earnings numbers or broader market sell-off.",
     "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOel9XczZ5Vll4cGF4UTl6Nk9WMDk2ay1td2pydC1rTFVZNHBiSkVWWlVUMkROdnlQYnhzNTdPM1ZDTEtkVVRpUkM0S3dFV1pYT3p1YWZUQWd3dUprMm5OWnJkR0dVVkItdjVyczhHa292M18wMU11VFVSOXZoV1J4R2JtdVNDTGFDMmdiem9kNXRLOEljQTZlbjFlV2puRkg1OW5TbnQ3RTVXX2xmU0JEU3JHUmdLaHZiV1RIVlhXNkxSTXdSaFUzWTJpUVRPUHdKUDQtRmxZelkwWTM5SlFuNlBkeG5fOVV4U2FwSmtBYWxVUU9wU1VFbFhiTlnSAYICQVVfeXFMT3FPMGsyemNQdkloN2VlOGY2bjVLb2VkQlU2SHhmY3U3QkxhbW9lSHEtUlRJRWdPSzVrQ25xMTNZOFpmMVhEUlF6NlZ0WUp3NG15OFAwamc3SmlhMy1KQ0xiTkhfallwc2F0ZzFPWDVGdnYweEE2M1lIWmtXRC1KWlBzY29HaUk5UVU3Rm5zYVJDUXBTR0tPOERBSmx4MEZMdHJFTngzQ3QxOFBiZTFydFdWZEl5RWE3OG9mTmp0dEJUZ05xRmRxOElNcWhfTDkySDg4dDRHZ2RVcmJGdC1scGF2S0x1SG4tRjFORzI0YUJCVm9wUU4zYmVITkNiaG5ETWtR?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 304.9,
+    "status": "HIT",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-10",
+    "result_note": "Target Hit: High ₹364.40 reached Target ₹330.82"
   },
   {
     "id": "2026-11-09_HDFCBANK_2",
