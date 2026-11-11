@@ -14,7 +14,7 @@
     "catalyst": "Q2 FY27 operational delivery positions the firm favorably to capture expanded export demand and sustained order book traction through H2 FY27.",
     "invalidation_risk": "Weakening discretionary consumer demand in core export markets like North America and Europe, or spikes in raw cotton input costs.",
     "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHp4eDBUOG5LQkF1dUdhNkVacHZycXFUa0drMWpnVkFseGt2V1E1NEd6SmVyb1V4T0Z1RVFqR3NkYU52RExfU0ZvZ0VCT1lTSlJtRXZobEFOajdLbHBfR0UzdmhtRWx6UFQyYWNJNDdKZXJ0azRlVUM0N2x5R3hwS3ZKMks2MG1fY1ZHaGRBZ01pMFgwZXhKb05PaDFOeFVTODVaaW5xeVFOR2VZOHdFYkJ3MlJ0X1hhT2hqTnpka3ZkZms?oc=5",
-    "base_price": null,
+    "base_price": 678.1,
     "status": "PENDING",
     "max_tracking_days": 90,
     "resolved_date": null,
@@ -35,7 +35,7 @@
     "catalyst": "Scheduled management interactions with institutional investors at Avendus Spark INDX 2026 on Nov 16 to provide catalysts around festive season volumes and network utilization.",
     "invalidation_risk": "Negative commentary regarding pricing pressure in e-commerce express logistics or rising operational line-haul costs.",
     "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT05id2hGNGR1X2Q4OFNyV3hId2trVFNjM3hIS0plQk50LVVudE5FX3gwWTdHM2Rob21uMi1ZU2hwb2ZfQjAzOFh0Y1N4bEprZmZXQ1RzenllUndPS3p3X0c0Ump6MTg2b19heGNGT2gzUHVDb0RBTk9paUEzcHNjY0tGeDE2VzlNVTVCUWJTc2xxY2ZBbmNUUV9tZDdXZmp5ZXNocWpJWUZNQTdzWmNUdUdEOWc0Rm8?oc=5",
-    "base_price": null,
+    "base_price": 435.0,
     "status": "PENDING",
     "max_tracking_days": 30,
     "resolved_date": null,
@@ -56,11 +56,11 @@
     "catalyst": "Shares slumped 8% intraday after Q2 FY27 earnings disclosure flagged execution slowdown and operational margin compression in core naval projects.",
     "invalidation_risk": "Fresh order book additions from Ministry of Defence tenders or positive management clarification during post-earnings analyst calls.",
     "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZjlCTXo0YkEyOVpQQjRqTGdmSGgxbEVmMXNtcUV6cEw3VHIwRklVQnFRQ2IzczB3NmppbTNCNDJjSWNIcXd3c0R5SndNZVZGM0g3XzVvNTVfOVNYQkZ1ekdfUUhSSG81eWFINE5KNHMwWGl6Zks0UkFIZnpwVWRfdDNYaC1wd0REZXV3RWVYZlk4eFBRNDBjLUpCTEVfd2dCclZBVmRIRDUtbGlQN1RNMDNkZmNEOWVXR1JsMHNpbjN1OUJEdHk5YS1fOHd4VWNOdUFXVEtEOXd5QlQ0MW5CcE1oc9IB6AFBVV95cUxNNWhITi1HeDRua1dDWTZ2SU4xTFhiZ2FzWHBidGtRb19xdmtLMXpOSmt1a0JxT3lOMk5Wa3hfUTRsSFF0TjA1OExDaEgtZFJ5bi1NR3psSUhVbnZrcVNHNlhiQzlldEVneVBxcVFmN1F0RlVnYllHRjBDNkgxZlZMUG82ckxUMmxWMUpnU3Y3T3h5SDI4Wk8xX2gxdklmb19tc3BfcGNHWVdyZ0RHM2o5SzZIUVZGR2p6RVU0dmRmZ0ljLXMzd0ZNYlRKWi0tQm40M1FDOUJyMU4zQkZUWWtDS2ktUG5rbF9T?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 1200.0,
+    "status": "HIT",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-11",
+    "result_note": "Target Hit: Low ₹1186.50 hit Target ₹1296.00"
   },
   {
     "id": "2026-11-10_NSE_3",
@@ -372,10 +372,10 @@
     "invalidation_risk": "Regulatory changes capping derivative contract volumes or shift in equity market trading volumes back to NSE.",
     "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0FMdXB5dFdCVzdZOXgxNkx5VTNUMy1GUDNvd1N0Q2MtdDRRczFWYzU4cWxxVl9nNUJHTDdSSF9oV2J5UDRKSXRNTEJUTUV1QjJEZ2FYNzduT2pqYVk5eHo4MXBWbHQzcU5iSTZCRVNIR21LdmYtOGJHYXo3XzFyTF9tZU1tbFhqYzh3aUhzNVpFU0hZUXRCWWVySS1iY2Z6ajRTTWlOMHlyM0dFWG1Lcjk0NzU4YkM4RGJEUnhNcTJwamlQdmRGMy1Na0t1OWsyOFgyddIB2gFBVV95cUxQcU92VG1GVkJwbUxBYzVpbzBZX1pmOXZHMHVmb3otai1iaHVDQlFsclQ5REVBa3VZcTN6elMwdEJkN0x6YWdSQ1oxczMwamxsUlZoaTRYQ3NLc29yXzJlSG5tNTNSdlR1R1gtVjMtS3NUR0l3dkhrcEx4a2E3Qy05UUEwOWhYbUM1U1NERklnRmRnT2ZOcGNkTzNjT1VOVzl1ZjBILVdKRUVidnpHREZrS0ZDb0pVNlZhWmZJQTZMUUtqXzdmQmtMYUJ3V0pEOGlBcU9zTG13aGtIdw?oc=5",
     "base_price": 3665.0,
-    "status": "PENDING",
+    "status": "HIT",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-11",
+    "result_note": "Target Hit: High ₹3929.30 reached Target ₹3848.25"
   },
   {
     "id": "2026-11-05_OIL_0",
