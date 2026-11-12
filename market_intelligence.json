@@ -14,11 +14,11 @@
     "catalyst": "Three-day institutional investor engagement scheduled for Nov 17–19 providing platform to reinforce EV transition timelines, SUV share gains, and FY27 volume guidance.",
     "invalidation_risk": "Softening domestic retail PV demand and elevated dealer inventory requiring margin-dilutive promotional discounts.",
     "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVBiNkhLbFlKTzdhNWFxS1F5bzhxWEExY2gyZVJUMkN1dVFVc0JlamZPb1VxMXBVNFdpQUZCTTItcWZNSUotRzBhNWdvSEdVZl93MHpQQXdhbkg2MEdmQTBMMGhDUl9lTzlqQXFMYldDTU1EMzhUM3JZQjBRbWhVbWh2OWdkcVlMYU9JSUhLb0czZFNISXk4M2ZZY2JWZUpJSU00Z3FFMUluRXg0emVrbkVXNA?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 13184.0,
+    "status": "MISSED",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-12",
+    "result_note": "Invalidated: Low ₹12900.00 breached SL ₹12920.32"
   },
   {
     "id": "2026-11-12_BPCL_1",
@@ -35,11 +35,11 @@
     "catalyst": "Schedule of upcoming institutional investor meetings in Mumbai starting Nov 16 expected to highlight refining margin trends and strategic capex allocation.",
     "invalidation_risk": "Sharp unexpected surge in global crude oil prices reducing domestic marketing margins.",
     "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM29xalg4elQyWG5fdmNueXFYcUczbFZpVnkzMU4zNGxyUk13RVhFNnpTWkRnYzFlU1BYM1lGV0FDN0JPREdFeUt1WHU3Zjl0ODlTeUJ1MUJpZTIWWTlYWVdEeHZjemFqUkNoeGUtTHdkZDVKV1pia0VMbVFvYzg5aC1UM3hkMUJ2Tk5tUzQ1MlBEMXVSckN5ZDFJem10ZE5BUEVRMFY0VGRjdzQ?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 316.6,
+    "status": "MISSED",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-12",
+    "result_note": "Invalidated: Low ₹309.85 breached SL ₹310.27"
   },
   {
     "id": "2026-11-12_EKAMLEA_0",
@@ -161,7 +161,7 @@
     "catalyst": "Successfully listed on BSE and NSE main boards following a successful SME stint, drawing fresh institutional and retail interest.",
     "invalidation_risk": "Post-listing cooling off or lack of sustained delivery volumes.",
     "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGtqaDRxZU9zWHRXNVNVc08zUnl0aGxza2RUUTk4NXEtNzc0MFVmTnZhMll1TnNna2plQ2s5S3Z2Uk9RakZPVzFBb3Q3elJvdXFMVk5EWktYU04yTGJQYnV4VXRqaVVXN0cwcUo2M1o3Y0RveC05UlVMSElPUGV2WTg5dDFwUzg3SmpGOVJiNlhDMGI3WFQ5T2tpMEtrVDVwaVp6S3BCb3h6M3o2bEJNQ2JyeTZRRXM3d2xTaFlVNNIBvwFBVV95cUxPZGtqaDRxZU9zWHRXNVNVc08zUnl0aGxza2RUUTk4NXEtNzc0MFVmTnZhMll1TnNna2plQ2s5S3Z2Uk9RakZPVzFBb3Q3elJvdXFMVk5EWktYU04yTGJQYnV4VXRqaVVXN0cwcUo2M1o3Y0RveC05UlVMSElPUGV2WTg5dDFwUzg3SmpGOVJiNlhDMGI3WFQ5T2tpMEtrVDVwaVp6S3BCb3h6M3o2bEJNQ2JyeTZRRXM3d2xTaFlVNA?oc=5",
-    "base_price": null,
+    "base_price": 2.8,
     "status": "PENDING",
     "max_tracking_days": 30,
     "resolved_date": null,
@@ -624,10 +624,10 @@
     "invalidation_risk": "Sharp spikes in geopolitical tensions driving crude prices higher or adverse windfall tax policy adjustments.",
     "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeHozbXJjS1M5Q0hUZlJOOGVsZVU1V3VSS0tOUkxTcTR4YUdLeUc1blAweDZraFdOYnFudlNUQ0JOUVR4cXVxRjA0LW1HLV93Q1NralpRVDM2aUs4clFlYmt5RjBLdFFTVnZRX2RvRTdTZW1DSzk5Q2hZemd6MDI0b0RlMllsWGt5RUhkV0xtU0hCcGNRUXFpclI1eFZxRnNtdWQ3QVNaT0Z1WTdKaUc3a19hVm9MdnhRZU9BMV9FMFBZT0U1WU5fOWZGRVlzREdpempkcEhIMFRDVkVhcHpyeFVkLXVxckVPakIwWFBqbmI1VUh2dEp6Wk5WY9IBgAJBVV95cUxQb05IZjdoNF9LdGotM3hPdFVPcDBncThueEZPbDhFTk1CS3MxUzlvdS05NlVxWFVCaGxqYnYwTzFIcEt1TGFnamZELTBYal9Zenh1R1VXZFdQeDVwZktKb2Fja0xmelljbEVreC14OGdFWFJNSGZYVTJNQlBYY2haUmlXMktCbmdwczN0THR1eUw2cGdSNF95b2RreXdOcFRWOTlpcjFxdmVqcFQ0ZTdyaldpYlYzYUViUXRTOTJqa19MeGpwelppaTJZcFRNNnhJNkxXNWRFSkpBY2E1b191V1ZWMWhPaG9SWHRFTEtEN3pmc2hneWlhYkxBZ3lnTWFs?oc=5",
     "base_price": 226.2,
-    "status": "PENDING",
+    "status": "MISSED",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-12",
+    "result_note": "Invalidated: Low ₹217.62 breached SL ₹221.68"
   },
   {
     "id": "2026-11-02_BHARTIARTL_1",
