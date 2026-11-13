@@ -14,11 +14,11 @@
     "catalyst": "Formal statutory newspaper publication of Q2 FY27 results reassuring execution stability in grid electrification.",
     "invalidation_risk": "Raw material inflation compressing operating EBITDA margins.",
     "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORl9WWXhYU1YzZThfWF90MkUzMjVTUjJ4enZCb2ZXbVMxdHF0X1A4SVQ0SU1QdElkSFU2WnVBakpTdVVQSTRnNHRaOEtaWmhDOHhFTms3TnRIY0FfN1hxNVNQZnloLVpFTnhGNmlhbWxmMk1SRHlBWXoyb2ZlVGQ3VkppT3dHLVlwWWRfZzlUUUdhNEpVSkdZUTY5U05tOEdBbk1sci1SQ09mZFRhdjlIbGlrWDJWSTVFUndhVW5kY1lmOENkRm5BM09YcEkzeU9YTE9fTEMwTmVFQXp2X29WVFpJYTVWNHFR?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 29990.0,
+    "status": "HIT",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-13",
+    "result_note": "Target Hit: High ₹32250.00 reached Target ₹31489.50"
   },
   {
     "id": "2026-11-13_BLKASHYAP_3",
@@ -35,11 +35,11 @@
     "catalyst": "Board acknowledges fine imposed by National Stock Exchange over delay in shareholding reporting.",
     "invalidation_risk": "Fresh high-margin order inflows offsetting corporate governance penalties.",
     "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm9ZSHczZ2xyS2hPTGZDaU1ZRjJNaGtIdjZtcjVOX0RpaGNwaEpaaHBkZ0hqSUQ4V0drNTV2XzlMSFljbXJSelVjTWY5RWkwZU1pQ1VNNnBjUVhCTnNJNE5Xb1dCRkJJUEw0Sk4xdTdWVUxRYVg3aDlQZWNhazNEN3VaSXRSSFRYTTFjMXc4WHE5czVaSUY4b25TUHNkRzAzYzU4NGVHYXFTOE9vTUFLREpRRQ?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 54.25,
+    "status": "HIT",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-13",
+    "result_note": "Target Hit: Low ₹52.25 hit Target ₹55.61"
   },
   {
     "id": "2026-11-13_BIL_2",
@@ -56,11 +56,11 @@
     "catalyst": "Strong Q2 FY27 financial performance with PAT surging 124.35% YoY to Rs 22.30 crore.",
     "invalidation_risk": "Profit booking at near-term overhead resistance levels.",
     "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTVxOWZCMXFoc2JzRzY2ZXhfY1ZlTVFjNGxCZVYzVVZGQzhtX3hGQnVLcFdrblBmRThyLUw3LVlSOUl0VU5vam1Ec3ZpVmlFVkhVSUxEcnBfRE1XcVpPVUd4NlR4N1JiQXktcExnWW53T0taQ1JCWF83UWR5N3FxcjBB?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 1211.0,
+    "status": "MISSED",
     "max_tracking_days": 30,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-13",
+    "result_note": "Invalidated: Low ₹1097.40 breached SL ₹1186.78"
   },
   {
     "id": "2026-11-13_CELEBRITY_1",
@@ -77,11 +77,11 @@
     "catalyst": "Q2 FY27 net loss narrowed by 79% YoY to ₹0.80 crore indicating turnaround progress.",
     "invalidation_risk": "Weak order book momentum or high operational input costs in upcoming quarters.",
     "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekdMTWdqbTNBWjJ3ekwxZW8xWlJGX2lWQmVQSG83TlZmN3E2TGNEZ25ycUFKQ0I1bnZEMDItU21hZTB1VTQxWDExdzdJaUI5U283b3RTaU8wMzZXTzM3QzE2YTl0eS1yTXdkX0dWelo5RjVtSkItWVFMRG0xNUl2VU9SejBfV1VPREZhdS1KQ1JUNmllOHhXZjBERWw1UjRpSVV2UUJrT0NSZVAxLU9Pb3k1eTlwMF96Q3pXeFR3TXBPcjg?oc=5",
-    "base_price": null,
-    "status": "PENDING",
+    "base_price": 6.58,
+    "status": "MISSED",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-13",
+    "result_note": "Invalidated: Low ₹6.08 breached SL ₹6.45"
   },
   {
     "id": "2026-11-13_SPICEJET_0",
@@ -183,10 +183,10 @@
     "invalidation_risk": "Weakening discretionary consumer demand in core export markets like North America and Europe, or spikes in raw cotton input costs.",
     "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHp4eDBUOG5LQkF1dUdhNkVacHZycXFUa0drMWpnVkFseGt2V1E1NEd6SmVyb1V4T0Z1RVFqR3NkYU52RExfU0ZvZ0VCT1lTSlJtRXZobEFOajdLbHBfR0UzdmhtRWx6UFQyYWNJNDdKZXJ0azRlVUM0N2x5R3hwS3ZKMks2MG1fY1ZHaGRBZ01pMFgwZXhKb05PaDFOeFVTODVaaW5xeVFOR2VZOHdFYkJ3MlJ0X1hhT2hqTnpka3ZkZms?oc=5",
     "base_price": 678.1,
-    "status": "PENDING",
+    "status": "MISSED",
     "max_tracking_days": 90,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-13",
+    "result_note": "Invalidated: Low ₹663.80 breached SL ₹664.54"
   },
   {
     "id": "2026-11-11_DELHIVERY_1",
@@ -372,10 +372,10 @@
     "invalidation_risk": "Delays in project site handover, execution bottlenecks, or margin pressure from raw material inflation.",
     "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
     "base_price": 4145.0,
-    "status": "PENDING",
+    "status": "MISSED",
     "max_tracking_days": 3,
-    "resolved_date": null,
-    "result_note": "Awaiting market price validation"
+    "resolved_date": "2026-11-13",
+    "result_note": "Time Horizon Expired (4 days passed)"
   },
   {
     "id": "2026-11-06_IKS_4",
